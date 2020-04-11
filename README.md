@@ -1,1 +1,1 @@
-# EPFL-ANN-Miniproject
+# CS456 - Artificial Neural Networks
